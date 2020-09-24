@@ -178,4 +178,4 @@ client.on('guildMemberAdd', (member: GuildMember | PartialGuildMember) => {
   }
 })
 
-client.login("NzU2NzE3OTI5NjI5NzQ1Mjgy.X2V6fQ.-d-8K_JjElzdINkpbFPDLg5Mg68");
+client.login("");
